@@ -1,4 +1,6 @@
-#usps-tracker
+# usps-tracker
+
+**gets tracking information for USPS shipments**
 
 dependencies: `none`
 
